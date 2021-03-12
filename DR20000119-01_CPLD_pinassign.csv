@@ -1,0 +1,52 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\Users\miyamoto\Documents\SugearSync_MyDocs\HDL\Quatrus\MAXV\ER50D_walzer_VER2.0\ER50D_pinassign.csv
+# Generated on: Tue Oct 20 11:13:52 2015
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,Fitter Location,I/O Standard,Reserved,Current Strength,Differential Pair
+AMP[0],Output,PIN_19,1,PIN_19,,,,
+AMP[1],Output,PIN_20,1,PIN_20,,,,
+CH[0],Output,PIN_16,1,PIN_16,,,Minimum Current,
+CH[1],Output,PIN_15,1,PIN_15,,,Minimum Current,
+CH[2],Output,PIN_14,1,PIN_14,,,Minimum Current,
+CLK,Input,PIN_18,1,PIN_18,,,,
+CS[0],Output,PIN_2,1,PIN_2,,,Minimum Current,
+CS[1],Output,PIN_3,1,PIN_3,,,Minimum Current,
+CS[2],Output,PIN_4,1,PIN_4,,,Minimum Current,
+CS[3],Output,PIN_5,1,PIN_5,,,Minimum Current,
+CS[4],Output,PIN_6,1,PIN_6,,,Minimum Current,
+CS[5],Output,PIN_7,1,PIN_7,,,Minimum Current,
+CS[6],Output,PIN_8,1,PIN_8,,,Minimum Current,
+D[1],Output,PIN_56,2,PIN_56,,,,
+D[2],Output,PIN_57,2,PIN_57,,,,
+D[3],Output,PIN_58,2,PIN_58,,,,
+D[4],Output,PIN_61,2,PIN_61,,,,
+FSEL,Output,PIN_71,2,PIN_71,,,,
+FSYNC,Output,PIN_75,2,PIN_75,,,,
+MCLK,Input,PIN_64,2,PIN_64,,,,
+PSEL,Output,PIN_70,2,PIN_70,,,,
+RESET,Output,PIN_72,2,PIN_72,,,,
+SCLK,Output,PIN_74,2,PIN_74,,,,
+SDATA,Output,PIN_73,2,PIN_73,,,,
+SW[1],Input,PIN_52,2,PIN_52,3.3V Schmitt Trigger Input,,,
+SW[2],Input,PIN_53,2,PIN_53,3.3V Schmitt Trigger Input,,,
+SW[3],Input,PIN_54,2,PIN_54,3.3V Schmitt Trigger Input,,,
+SW[4],Input,PIN_55,2,PIN_55,3.3V Schmitt Trigger Input,,,
+SYNC,Output,PIN_66,2,PIN_66,,,,
+ZOUT,Output,PIN_21,1,PIN_21,,,,
+nRES,Input,PIN_12,1,PIN_12,,,,

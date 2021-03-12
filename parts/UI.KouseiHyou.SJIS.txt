@@ -1,0 +1,12 @@
+2列ピンヘッダ	PH-2x04SG		AKIZUKI	AKIZUKI	---	1	50
+DF11コネクタ(PLUG)	DF11-14DP-2DSA(24)		HIROSE	RS	---	1	99
+DF11コネクタ(PLUG)	DF11-4DP-2DSA(24)		HIROSE	RS	---	4	36
+取り付けスペーサ	VAB-3-10		HIROSUGI	misumi	---	2	120
+インジケータ3mm	L-93A8CB/1ID		kingbright	RS	---	1	29
+インジケータ3mm	L-93A8CB/1GD		kingbright	RS	---	2	16
+金属皮膜抵抗	MF1/4CC1601F		KOA	RS	---	1	14
+金属皮膜抵抗	MF1/4CC6800F		KOA	RS	---	2	14
+トグルスイッチ	A-12AV		NKK	MISUMI	---	4	214
+１列ピンヘッダ	826646-4		TE	MOUSER	---	2	50
+基板実装BNCコネクタ	5227161-3		TE	MOUSER	---	3	357
+ポリスイッチ	RXEF050		TE	RS	---	1	35

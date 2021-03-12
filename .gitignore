@@ -1,0 +1,7 @@
+#  .gitignore for EAGLE cad files
+#
+*.b#*
+*.s#*
+/*/
+!/parts/
+!/gerber/

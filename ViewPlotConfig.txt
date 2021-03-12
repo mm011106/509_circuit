@@ -1,0 +1,9 @@
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.lin
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.drd
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.sts
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.sol
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.l3
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.l2
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.cmp
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.stc
+C:\Users\miyam\Box\PCB-CAD\projects\502_PhantomDriver_ER-150D\gerber\PhantomDriver_ER150D.plc

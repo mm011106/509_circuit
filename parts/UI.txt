@@ -1,0 +1,34 @@
+Partlist
+
+Exported from PhantomDriver_ER150D.sch at 2020/07/16 10:49
+
+EAGLE Version 7.4.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 11Hz 1Vo-p
+
+Part     Value                   Device                  Package                 Library          Sheet
+
+CN5      DF11-4DP-2DSA           DF11-4DP-2DSA           DF11-4DP-2DSA           AEL_terminal     3
+CN6      DF11-4DP-2DSA           DF11-4DP-2DSA           DF11-4DP-2DSA           AEL_terminal     3
+CN7      DF11-14DP-2DSA          DF11-14DP-2DSA          DF11-14DP-2DSA          AEL_terminal     3
+CN8      PH-2X4S                 PH-2X4S                 PIN_HEADER_8PIN         AEL_terminal     3
+CN9      DF11-4DP-2DSA           DF11-4DP-2DSA           DF11-4DP-2DSA           AEL_terminal     3
+CN10     826646-4                PH-1X4                  PIN_HEADER_4PIN         AEL_terminal     3
+CN11     826646-4                PH-1X4                  PIN_HEADER_4PIN         AEL_terminal     3
+CN12     BNC_ANGLE               BNC_ANGLE               BNC_F_ANGLE             AEL_terminal     3
+CN13     BNC_ANGLE               BNC_ANGLE               BNC_F_ANGLE             AEL_terminal     3
+CN14     BNC_ANGLE               BNC_ANGLE               BNC_F_ANGLE             AEL_terminal     3
+CN15     DF11-4DP-2DSA           DF11-4DP-2DSA           DF11-4DP-2DSA           AEL_terminal     3
+D4       L-93A8CB/1GD            L-93A8CB/1GD            L-93A8CB                AEL_LED          3
+D5       L-93A8CB/1ID            L-93A8CB/1ID            L-93A8CB                AEL_LED          3
+D6       L-93A8CB/1GD            L-93A8CB/1GD            L-93A8CB                AEL_LED          3
+F2       RXEF050                 RXEF050                 8X3/5.08                AEL_FUSE         3
+M2       VAB-3-10                VAB-3-10                VAB_3_10_CONTACT        AEL_hole         3
+M3       VAB-3-10                VAB-3-10                VAB_3_10_CONTACT        AEL_hole         3
+R59      680/LEAD                R0207/2V                0207/2V                 AEL_RLC          3
+R60      1.6k/LEAD               R0207/2V                0207/2V                 AEL_RLC          3
+R61      680/LEAD                R0207/2V                0207/2V                 AEL_RLC          3
+SW1      A-12AV                  A-12AV                  A-12*                   AEL_SW           3
+SW2      A-12AV                  A-12AV                  A-12*                   AEL_SW           3
+SW3      A-12AV                  A-12AV                  A-12*                   AEL_SW           3
+SW4      A-12AV                  A-12AV                  A-12*                   AEL_SW           3
