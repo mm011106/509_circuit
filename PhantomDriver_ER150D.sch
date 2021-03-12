@@ -5270,13 +5270,13 @@ PC-V type/single&lt;BR&gt;</description>
 </library>
 </libraries>
 <attributes>
-<attribute name="DOC_NUM" value="DR20000189"/>
-<attribute name="DOC_TITLE" value="ER-150 Phantom Driver"/>
+<attribute name="DOC_NUM" value="DR20000193"/>
+<attribute name="DOC_TITLE" value="Coil Driver 50ch"/>
 <attribute name="REV" value="00"/>
 </attributes>
 <variantdefs>
-<variantdef name="11Hz 1Vo-p" current="yes"/>
-<variantdef name="80Hz 1Vo-p"/>
+<variantdef name="11Hz 1Vo-p"/>
+<variantdef name="80Hz 1Vo-p" current="yes"/>
 </variantdefs>
 <classes>
 <class number="0" name="default" width="0" drill="0">
