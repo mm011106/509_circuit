@@ -5288,7 +5288,7 @@ PC-V type/single&lt;BR&gt;</description>
 <part name="U6" library="AEL_linear" deviceset="TPS3808G" device="DBV" technology="01"/>
 <part name="U1" library="AEL_linear" deviceset="OPA2344" device="EA"/>
 <part name="U5" library="AEL_linear" deviceset="OPA2344" device="EA"/>
-<part name="U8" library="AEL_linear" deviceset="OPA2344" device="EA"/>
+<part name="U8" library="AEL_linear" deviceset="OPA2344" device="EA" value="OPA2314AIDGK"/>
 <part name="U9" library="AEL_linear" deviceset="TS5A23159" device="DGS"/>
 <part name="U10" library="AEL_CMOS_LOG" deviceset="74*4052" device="AFT" technology="VHC"/>
 <part name="R3" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="270k">
@@ -5336,10 +5336,10 @@ PC-V type/single&lt;BR&gt;</description>
 <part name="R44" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="51k"/>
 <part name="C17" library="AEL_RLC" deviceset="C" device="SMD2.0X1.2MM" value="4.7n"/>
 <part name="C19" library="AEL_RLC" deviceset="C" device="SMD2.0X1.2MM" value="2.2n"/>
-<part name="R52" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="100k"/>
-<part name="R53" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="10k"/>
-<part name="R48" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="100k"/>
-<part name="R49" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="5.6k"/>
+<part name="R52" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="22k"/>
+<part name="R53" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="200"/>
+<part name="R48" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="22k"/>
+<part name="R49" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="200"/>
 <part name="R31" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="51k"/>
 <part name="R34" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="1M/THICK"/>
 <part name="C18" library="AEL_RLC" deviceset="C" device="SMD1.0X0.5MM" value="0.1u/16V"/>
@@ -5405,10 +5405,10 @@ PC-V type/single&lt;BR&gt;</description>
 <part name="PS7" library="AEL_powerline" deviceset="VA+3V3" device=""/>
 <part name="PS6" library="AEL_powerline" deviceset="VA+3V3" device=""/>
 <part name="PS3" library="AEL_powerline" deviceset="VA+5" device=""/>
-<part name="R56" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="100/0.05%/10ppm"/>
+<part name="R56" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="10/0.5%/5ppm"/>
 <part name="U11" library="AEL_linear" deviceset="AD8227" device="RZ" technology="A"/>
-<part name="R57" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="15k/0.05%/10ppm"/>
-<part name="R55" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="2k/0.05%/10ppm"/>
+<part name="R57" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="20k/0.05%/10ppm"/>
+<part name="R55" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="82k/0.05%/10ppm"/>
 <part name="C26" library="AEL_RLC" deviceset="C" device="SMD1.6X0.8MM" value="1u/25V"/>
 <part name="V37" library="AEL_powerline" deviceset="AGND" device=""/>
 <part name="V33" library="AEL_powerline" deviceset="AGND" device=""/>
@@ -5639,10 +5639,10 @@ PC-V type/single&lt;BR&gt;</description>
 <part name="M2" library="AEL_hole" deviceset="VAB-3-10" device=""/>
 <part name="V49" library="AEL_powerline" deviceset="DGND" device=""/>
 <part name="V48" library="AEL_powerline" deviceset="DGND" device=""/>
-<part name="R51" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="100k"/>
-<part name="R54" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="10k"/>
-<part name="R47" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="100k"/>
-<part name="R50" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="39k"/>
+<part name="R51" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="2.2k"/>
+<part name="R54" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="39k"/>
+<part name="R47" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="2.2k"/>
+<part name="R50" library="AEL_RLC" deviceset="R" device="SMD1.6X0.8MM" value="3.6k"/>
 <part name="V46" library="AEL_powerline" deviceset="DGND" device=""/>
 <part name="V45" library="AEL_powerline" deviceset="DGND" device=""/>
 <part name="F1" library="AEL_FUSE" deviceset="RXEF*" device="" technology="050"/>
@@ -5672,41 +5672,47 @@ PC-V type/single&lt;BR&gt;</description>
 <text x="155.956" y="259.842" size="1.778" layer="97">x2</text>
 <text x="290.83" y="116.84" size="1.778" layer="97">1.65V</text>
 <text x="48.26" y="182.88" size="1.778" layer="97">Fo: +/-6% ADJ</text>
-<text x="317.5" y="236.22" size="1.778" layer="97" font="fixed">x1, 50kohm = 10.0uAo-p</text>
-<text x="317.5" y="233.68" size="1.778" layer="97" font="fixed">x2, 50kohm = 20.0uAo-p</text>
-<text x="317.5" y="231.14" size="1.778" layer="97" font="fixed">x1,  5kohm =  100uAo-p</text>
-<text x="317.5" y="228.6" size="1.778" layer="97" font="fixed">x2,  5kohm =  200uAo-p</text>
-<text x="172.72" y="211.328" size="1.778" layer="97">x1/2 on EXT and ANALOG</text>
-<text x="299.72" y="154.94" size="1.778" layer="97">x50</text>
+<text x="317.5" y="236.22" size="1.778" layer="97" font="fixed">x1, 2kohm = 0.25mAo-p</text>
+<text x="317.5" y="233.68" size="1.778" layer="97" font="fixed">x2, 2kohm = 0.5mAo-p</text>
+<text x="317.5" y="231.14" size="1.778" layer="97" font="fixed">x1, 200ohm =  2.5mAo-p</text>
+<text x="317.5" y="228.6" size="1.778" layer="97" font="fixed">x2, 200ohm =  5mAo-p</text>
+<text x="149.86" y="221.488" size="1.778" layer="97">0.5Vo-p</text>
+<text x="299.72" y="154.94" size="1.778" layer="97">x9.976</text>
 <text x="20.32" y="264.16" size="1.778" layer="97">DDS Input (diff)</text>
 <text x="30.48" y="259.08" size="1.778" layer="97">+</text>
 <text x="30.988" y="250.19" size="1.778" layer="97">-</text>
 <text x="99.06" y="251.46" size="1.778" layer="97">Vo=0.5Vo-p</text>
 <text x="91.44" y="238.76" size="1.778" layer="97">Fc=1kHz</text>
-<text x="170.18" y="213.868" size="1.778" layer="97">ATT</text>
 <text x="96.52" y="58.42" size="1.27" layer="97">[1]GND terminal was connected to the AnalogGND</text>
 <text x="76.2" y="58.42" size="2.54" layer="97">BATTERY</text>
 <text x="353.06" y="172.72" size="2.54" layer="97">Current monitor OUT
 </text>
 <text x="320.04" y="187.96" size="1.27" layer="97">NOTE: AD8227 Vcc=5.0V to keep CMV margin</text>
 <text x="93.98" y="127" size="1.778" layer="97">Fc=1kHz</text>
-<text x="360.68" y="172.72" size="1.778" layer="97">Vo = 5000xIout</text>
+<text x="360.68" y="172.72" size="1.778" layer="97">Vo = 100xIout</text>
 <text x="22.86" y="233.68" size="1.778" layer="97">Iout FS =2.5mA, Zout = 200ohm
  -&gt; Vout(diff) = 0.5Vp-p
 Diff Amp Gain: x2
  -&gt; Vout(SE) = 1Vp-p =0.5Vo-p</text>
 <text x="93.218" y="198.12" size="1.778" layer="97">1Vo-p</text>
-<text x="105.918" y="144.78" size="1.778" layer="97">1Vo-p</text>
+<text x="95.758" y="132.08" size="1.778" layer="97">1Vo-p</text>
 <text x="20.32" y="149.86" size="1.778" layer="97">EXT OSC Input (SE)</text>
 <text x="22.098" y="129.54" size="1.778" layer="97">+/-1V + 1.65Vdc
 0.1Hz - 100Hz</text>
 <text x="342.9" y="91.44" size="1.778" layer="97">OSC Select</text>
-<text x="271.78" y="180.34" size="1.778" layer="97">5.6k//39k=4.898k</text>
+<text x="248.92" y="175.26" size="1.778" layer="97">200ohm = 199ohm + 1ohm(SW),
+200ohm = 189ohm + 1ohm(SW) + 10ohm</text>
 <wire x1="365.76" y1="124.46" x2="368.3" y2="124.46" width="0.1524" layer="97"/>
 <wire x1="368.3" y1="124.46" x2="368.3" y2="81.28" width="0.1524" layer="97"/>
 <wire x1="368.3" y1="81.28" x2="365.76" y2="81.28" width="0.1524" layer="97"/>
 <text x="370.84" y="109.22" size="1.778" layer="97" rot="R90">SETTINGS(UI)</text>
 <text x="60.96" y="223.52" size="1.778" layer="97">&gt;ASSEMBLY_VARIANT </text>
+<text x="246.38" y="259.08" size="1.778" layer="97" font="fixed">0.5Vo-p @ x1
+1.0Vo-p @ x2</text>
+<text x="284.48" y="152.4" size="1.778" layer="97">(16.0784kohm) = 80kohm / (G-5)</text>
+<wire x1="154.94" y1="223.52" x2="159.004" y2="232.41" width="0.1524" layer="97"/>
+<wire x1="159.004" y1="232.41" x2="158.75" y2="230.632" width="0.1524" layer="97"/>
+<wire x1="159.004" y1="232.41" x2="157.988" y2="231.14" width="0.1524" layer="97"/>
 </plain>
 <instances>
 <instance part="FRAME1" gate="G$1" x="0" y="0"/>
@@ -5729,7 +5735,7 @@ Diff Amp Gain: x2
 <instance part="U9" gate="P" x="233.68" y="58.42"/>
 <instance part="U9" gate="-1" x="269.24" y="195.58" smashed="yes">
 <attribute name="NAME" x="271.018" y="203.327" size="1.27" layer="95"/>
-<attribute name="VALUE" x="263.398" y="190.5" size="1.27" layer="96"/>
+<attribute name="VALUE" x="263.398" y="187.96" size="1.27" layer="96"/>
 </instance>
 <instance part="U9" gate="-2" x="269.24" y="238.76" smashed="yes">
 <attribute name="NAME" x="271.018" y="246.507" size="1.27" layer="95"/>
